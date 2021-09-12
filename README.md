@@ -2,7 +2,7 @@
 
 This project is made under Elite Techno Group's Skill India Python for ML/AI internship.
 
-This repository contains one CSV and one Jupyter Notebook file. 
+This repository contains one CSV file (summer.csv) and one Jupyter Notebook file (SummerOlympics.ipynb). 
 
 The given dataset contains details of Summer Olympics held till the year 2012.
 
